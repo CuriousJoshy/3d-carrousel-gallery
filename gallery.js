@@ -132,4 +132,6 @@ addEventListener("load", () => {
     "https://images.all-free-download.com/images/graphiclarge/beautiful_nature_landscape_05_hd_picture_166223.jpg", 
     "https://www.gloholiday.com/wp-content/uploads/2013/07/amazing-nature-sunrise-hd-wallpaper.jpg", 
     "http://fullhdwall.com/wp-content/uploads/2016/02/Widescreen-Beautiful-Nature.jpeg"]);
+    
+    alert("Why isn't this working?");
 });
