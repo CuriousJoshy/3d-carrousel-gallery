@@ -130,6 +130,6 @@ addEventListener("load", () => {
     "https://images.pexels.com/photos/355296/pexels-photo-355296.jpeg?cs=srgb&dl=blur-branches-daylight-355296.jpg&fm=jpg",
     "https://cdn.pixabay.com/photo/2017/10/25/12/13/landscapes-2887796_960_720.jpg", 
     "https://images.all-free-download.com/images/graphiclarge/beautiful_nature_landscape_05_hd_picture_166223.jpg", 
-    "https://cooldigital.photography/wp-content/uploads/2018/01/Nature-Wallpaper-with-sunrise-in-the-morning-620x413.jpg", 
+    "https://www.iucn.org/sites/dev/files/content/images/2020/shutterstock_1458128810.jpg", 
     "https://images2.alphacoders.com/689/689529.jpg"]);    
 });
